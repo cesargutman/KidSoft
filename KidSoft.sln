@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KidSoft", "KidSoft\KidSoft.csproj", "{AC2D6EFD-5A2A-4DFD-B174-537BA2C322DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC2D6EFD-5A2A-4DFD-B174-537BA2C322DB}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{AC2D6EFD-5A2A-4DFD-B174-537BA2C322DB}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{AC2D6EFD-5A2A-4DFD-B174-537BA2C322DB}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{AC2D6EFD-5A2A-4DFD-B174-537BA2C322DB}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{AC2D6EFD-5A2A-4DFD-B174-537BA2C322DB}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{AC2D6EFD-5A2A-4DFD-B174-537BA2C322DB}.Debug|iPhone.Build.0 = Debug|iPhone
+		{AC2D6EFD-5A2A-4DFD-B174-537BA2C322DB}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{AC2D6EFD-5A2A-4DFD-B174-537BA2C322DB}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{AC2D6EFD-5A2A-4DFD-B174-537BA2C322DB}.Release|iPhone.ActiveCfg = Release|iPhone
+		{AC2D6EFD-5A2A-4DFD-B174-537BA2C322DB}.Release|iPhone.Build.0 = Release|iPhone
+		{AC2D6EFD-5A2A-4DFD-B174-537BA2C322DB}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{AC2D6EFD-5A2A-4DFD-B174-537BA2C322DB}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = KidSoft\KidSoft.csproj
+	EndGlobalSection
+EndGlobal
